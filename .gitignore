@@ -1,0 +1,34 @@
+# Virtual Environment (VERY IMPORTANT)
+case_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (keep only if you REALLY want to share)
+data/*.csv
+*.csv
+
+# Large files
+*.zip
+*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Power BI temp files
+*.pbix.tmp
+
+# Logs
+*.log
